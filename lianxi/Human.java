@@ -2,6 +2,8 @@ package lianxi;
 
 public class Human {
 		// TODO Auto-generated method stub
+String sdfsd;
+String d6666;
                 String hahha;
                 String hehehej;
 		String name;
