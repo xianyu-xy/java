@@ -3,7 +3,7 @@ package lianxi;
 import java.util.Scanner;
 
 public class test {
-
+5466666666666666666666664
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//Human zhangsan=new Human("张三", "男", 20, "北京");
