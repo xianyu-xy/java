@@ -4,6 +4,7 @@ public class zifu {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+6666666666666666666666666666666
 		char c1='a';
 		int c2=c1;
 		int a=3;
